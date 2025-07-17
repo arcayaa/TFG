@@ -45,5 +45,3 @@ https://complex-systems-ai.com/es/pronostico-de-prediccion/deteccion-de-anomalia
 - Python 3.10 o superior
 - Jupyter Notebook
 - Bibliotecas necesarias: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, entre otras
-
-Instalación recomendada de dependencias:
